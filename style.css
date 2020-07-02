@@ -1,18 +1,27 @@
 body {
-    background-color: #a29b9b;
+    background-color: #fafafa;
     color: #535353;
 }
+
+.top-bar, .top-bar ul {
+     background-color: #ffffff;
+ }
 
 .grid-container {
     background-color: #ffffff;
     color: #535353;
 }
 
-h2 {
-    color: #154d61;
+footer {
+    background-color: #8a999f;
+    color: #ffffff;
 }
 
 h5 {
+    color: steelblue;
+}
+
+h6 {
     color: #a8403c;
 }
 
