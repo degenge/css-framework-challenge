@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#cards-overview {
+    background-color: #e6eff6;
+}
+
+.btn-primary {
+    border-radius: 25px;
+}
+
+hr {
+    width: 70px;
+    border-width: 2px;
+}
+
+.card:hover {
+    -moz-box-shadow: 5px 5px 10px #888;
+    -webkit-box-shadow: 5px 5px 10px #888;
+    box-shadow: 5px 5px 10px #888;
+}
